@@ -1,1 +1,1 @@
-# Manual_Testing_etsy.com
+# Manual Testing of Etsy.com
